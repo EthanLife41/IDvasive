@@ -17,7 +17,7 @@ from PIL import Image
 from io import BytesIO
 
 API_KEY = "nzUrLgEmMb9zOX6GFHgfPzRIFLyqfc3MHXwz8A92ANwYHPQgoO"
-openai.api_key = "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"
+openai.api_key = #paste your own api key here
 result = ''
 result2 = ''
 name = ''
