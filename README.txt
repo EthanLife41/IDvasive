@@ -4,7 +4,7 @@ Please note the API keys are placeholders only; you will need to paste your own 
 
 To use the project, open command prompt and use the cd command to navigate to the directory the project is stored in.  
 
-Use pip to install django, pillow, openai, plantid. 
+Use pip to install requests, django, pillow, openai, plantid. 
 
 In the directory, run the command "py manage.py runserver"
 
