@@ -16,8 +16,8 @@ import requests
 from PIL import Image
 from io import BytesIO
 
-API_KEY = "nzUrLgEmMb9zOX6GFHgfPzRIFLyqfc3MHXwz8A92ANwYHPQgoO"
-openai.api_key = #paste your own api key here
+API_KEY = "nzUrLgEmMb9zOX6GFHgfPzRIFLyqfc3MHXwz8A92ANwYHPQgoO" #Paste your own Plant Detection API Key
+openai.api_key = #paste your own Open AI api key here (https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key)
 result = ''
 result2 = ''
 name = ''
