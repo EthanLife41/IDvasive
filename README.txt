@@ -1,3 +1,5 @@
+IDvasive is a ML detector for invasive plant species. Made for NorCal Hacks 2023 by Ethan, Raymond, Will and Jason
+
 Please note the API keys are placeholders only; you will need to paste your own API key to use the program.
 
 To use the project, open command prompt and use the cd command to navigate to the directory the project is stored in.  
